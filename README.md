@@ -1,4 +1,51 @@
-<p align="center">
+<div align="center">
+
+  <!-- Header Banner -->
+  <a href="https://github.com/Simran-Shaik03">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Simran%20Shaik&fontSize=65&fontColor=2EA043&animation=twinkling&desc=Software%20Developer%20%7C%20Full%20Stack%20%26%20Backend%20Systems&descSize=20&descAlign=50&descAlignY=70" alt="Simran Shaik Header Banner" width="100%" />
+  </a>
+
+  <!-- Typing Effect Subtitle -->
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=600&height=40&lines=Software+Developer+%40+EdMentor;Full-Stack+%26+Backend+Engineer;Building+Scalable+Web+Systems;Exploring+Distributed+Systems+%26+GenAI" alt="Typing SVG" />
+  </a>
+
+  <br />
+
+  <!-- Quick Social Links -->
+  <a href="https://www.linkedin.com/in/simran-shaik0309/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:simran.shaik.0309@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Simran-Shaik03">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio" />
+  </a>
+
+</div>
+
+<br />
+
+---
+
+### 👨‍💻 About Me
+
+```javascript
+const developer = {
+  name: "Simran Shaik",
+  role: "Software Developer @ EdMentor",
+  coreFocus: ["Full-Stack Architecture", "Scalable Backend Systems", "Clean Code"],
+  currentFocus: "System Design, Microservices & Generative AI Integration",
+  funFact: "90% momentum & clean aesthetics, 10% removing console.logs."
+};
+
+
+
+
+<!-- <p align="center">
   <a href="https://github.com/Simran-Shaik03">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Simran%20Shaik" alt="Hello! I&#39;m Simran Shaik" />
   </a>
@@ -57,11 +104,5 @@ Open to software engineering roles, open-source projects, and technical discussi
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Simran-Shaik03&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Simran-Shaik03">Simran-Shaik03</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/Simran-Shaik03">Simran-Shaik03</a></i></p> -->
