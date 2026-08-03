@@ -2,7 +2,7 @@
 
   <!-- Header Banner -->
   <a href="https://github.com/Simran-Shaik03">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Simran%20Shaik&fontSize=65&fontColor=2EA043&animation=twinkling&desc=Software%20Developer%20%7C%20Full%20Stack%20%26%20Backend%20Systems&descSize=20&descAlign=50&descAlignY=70" alt="Simran Shaik Header Banner" width="100%" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EA043&center=true&vCenter=true&width=780&height=120&lines=%2F%2F+Initialize+Developer+Instance;const+SimranShaik+%3D+%7B;+++role%3A+'Software+Developer+%40+EdMentor'%2C;+++specialties%3A+%5B'Full-Stack'%2C+'Backend-Architecture'%5D%2C;+++creativity_index%3A+Number.MAX_SAFE_INTEGER;%7D%3B" alt="Creative Header Banner" />
   </a>
 
   <!-- Typing Effect Subtitle -->
