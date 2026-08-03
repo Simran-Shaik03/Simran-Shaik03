@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Simran-Shaik03">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=765937&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Simran%20Shaik" alt="Hello! I&#39;m Simran Shaik" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Simran%20Shaik" alt="Hello! I&#39;m Simran Shaik" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@ Open to software engineering roles, open-source projects, and technical discussi
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Simran-Shaik03&bg_color=00000000&color=765937&line=765937&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Simran-Shaik03&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
