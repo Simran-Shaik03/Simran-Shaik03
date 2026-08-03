@@ -12,8 +12,7 @@ Open to software engineering roles, open-source projects, and technical discussi
 🔭 &nbsp;I'm currently working on **Scalable full-stack applications using React, Node.js, and MongoDB.**  
 🌱 &nbsp;I'm currently learning **System design fundamentals, authentication, backend architecture and Generative AI.**  
 👯 &nbsp;I'm looking to collaborate on **Open-source web tools, backend microservices, and full-stack projects**  
-🤔 &nbsp;I'm looking for help with **Advanced system architecture, distributed systems, and performance tuning**  
-💬 &nbsp;Ask me about **Full-stack development, DSA problem-solving, and clean code practices**  
+🤔 &nbsp;I'm looking for help with **Advanced system architecture, distributed systems, and performance tuning**   
 ⚡ &nbsp;Fun fact: **90% of my code comes from pure momentum, clean aesthetics, and trusting the process—the other 10% is making sure the console log is clean.**
 
 ### 🛠️ Tech Stack
