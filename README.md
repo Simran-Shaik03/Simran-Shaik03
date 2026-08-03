@@ -33,26 +33,6 @@
 
 ### 👨‍💻 About Me
 
-```javascript
-const developer = {
-  name: "Simran Shaik",
-  role: "Software Developer @ EdMentor",
-  coreFocus: ["Full-Stack Architecture", "Scalable Backend Systems", "Clean Code"],
-  currentFocus: "System Design, Microservices & Generative AI Integration",
-  funFact: "90% momentum & clean aesthetics, 10% removing console.logs."
-};
-
-
-
-
-<!-- <p align="center">
-  <a href="https://github.com/Simran-Shaik03">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Simran%20Shaik" alt="Hello! I&#39;m Simran Shaik" />
-  </a>
-</p>
-
-### 🚀 About Me
-
 Computer Science graduate working as a Software Developer at EdMentor. Experienced in building full-stack applications with React, Node.js, and MongoDB, backed by strong DSA and clean code practices.  
 Open to software engineering roles, open-source projects, and technical discussions around web development and backend systems.
 
